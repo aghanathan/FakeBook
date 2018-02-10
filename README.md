@@ -1,4 +1,4 @@
-# FakeBook
+# FakeBook - JavaScript inject0r
 Hack Someone Facebook With JavaScript inject0r
 
 Upload All the scripts from <strong>https://github.com/aghanathan/FakeBook</strong> into your Web Hosting (e.g. <b>'/public_html/FakeBook'</b>)
