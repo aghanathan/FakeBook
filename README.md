@@ -15,4 +15,4 @@ It Will Create a text file ('log.txt') (e.g. <b>http://gofreelancer.xyz/FakeBook
   </li>
 </ul>
 
-<b>Live Demo</b>: https://youtu.be/mkoXBder9jo
+<b>Live Demo</b>: <b>https://youtu.be/mkoXBder9jo</b>
